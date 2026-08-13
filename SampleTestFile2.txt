@@ -3,3 +3,4 @@ This is Sample File 2
 Testing Reset Commit 2
 
 This is the Comparison lecture, Change in file 2
+This is Stash lecture, Change in File 2
